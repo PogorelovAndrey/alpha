@@ -1,0 +1,2980 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8" xmlns:ng="http://angularjs.org"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html>
+<!--<![endif]-->
+<head>
+  	    
+    <!--[if lte IE 7]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <![endif]-->
+    <meta charset="utf-8" />
+    <title>Online Betting | Best Sports Betting Odds | Pinnacle Sports </title>
+    <meta name="description" content="Get the best odds for online sports betting at Pinnacle Sports including betting odds for all the soccer leagues  as well as live sports betting." /> 
+    
+
+
+    <meta property="og:image" content="http://www.pinnaclesports.com" />
+    <meta property="og:image:type" content="image/" />
+    <meta property="og:image:width" content="970" />
+    <meta property="og:image:height" content="400" />
+    <meta property="og:url" content="http://www.pinnaclesports.com/" />
+    <meta property="og:site_name" content="Guest" />
+    <meta property="og:type" content="article" />
+
+    
+
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:url" content="http://www.pinnaclesports.com/" />
+         <meta name="twitter:image:src" content="http://www.pinnaclesports.com" />
+        <meta name="twitter:site" content="@pinnaclesports" />
+
+
+
+      
+<link rel="alternate" hreflang="en" href="http://www.pinnaclesports.com/en/" />
+    <link type="text/css" rel="stylesheet" href="/Guest/Kooboo-Resource/theme/1_0_0_20151027170533/true/Default" />
+
+    <!--[if lte IE 7]> 
+    <style type="text/css">
+    [ng\:cloak], [ng-cloak], .ng-cloak {
+      display: none !important;
+    }
+    </style>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/html5" ></script>
+
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/es5" ></script>
+
+    <![endif]-->
+    <!--[if lte IE 7]>
+        <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/json2" ></script>
+
+    <![endif]-->
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/jquery" ></script>
+
+</head>
+<body ng-app="KoobooApp" id="ng-app" class="ng-app:KoobooApp">
+    
+<script type="text/javascript">
+    var homePageExpiration = 315360000000;
+    var stayOnHomeTime = 43200000;
+    var redirect = true;
+    var currentTime = new Date().valueOf();
+    if ($.cookie('HomePageVisitedTime') != null) {
+        var creationTime = new Date($.cookie('HomePageVisitedTime')).valueOf();
+        redirect =  (currentTime - creationTime) > stayOnHomeTime;
+    }
+    else {
+        $.cookie('HomePageVisitedTime', new Date().toUTCString(),  { path: "/", domain: ".pinnaclesports.com", expires : new Date(currentTime + homePageExpiration), raw: true });
+        redirect = false;
+    }
+    if (redirect) {
+        window.location.replace("/en/rtn");
+    }
+</script>
+ 
+
+    
+
+<script>
+dataLayer = [];
+  dataLayer.push({
+    'page-name': 'BettingHome',
+    'page-category': 'BettingHome',
+    'domain': 'www.pinnaclesports.com',
+    'site': 'Guest',
+    'referrer': '0',
+    'language': 'en-GB'    
+  });    
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PSRW2G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSRW2G');</script>
+<!-- End Google Tag Manager -->
+
+
+    <div class="homepage" id="body-container">
+         
+<header id="header">
+    <div class="topbar">
+        <div class="global-width">
+                         
+    <div class="lang">
+        <div id="languageSelector" class="dropdown-button">
+            <div class="container">
+                <span class="text">
+                    <span class="flag en">
+                        English (International)
+                    </span>
+                </span>
+            </div>
+          <ul style="display:none">
+                    <li class=active>
+                        <a class="value" data-value="2" href="/en/">
+                            <span class="flag en">English (International)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="3" href="/zh-cn/">
+                            <span class="flag zh-cn">简体中文 (Chinese S.)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="4" href="/zh-tw/">
+                            <span class="flag zh-tw">繁體中文 (Chinese T.)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="22" href="/cs/">
+                            <span class="flag cs">Čeština (Czech)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="5" href="/fi/">
+                            <span class="flag fi">Suomi (Finnish)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="16" href="/fr/">
+                            <span class="flag fr">Fran&#231;ais (French)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="6" href="/de/">
+                            <span class="flag de">Deutsch (German)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="7" href="/he/">
+                            <span class="flag he">עברית (Hebrew)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="8" href="/it/">
+                            <span class="flag it">Italiano (Italian)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="18" href="/ja/">
+                            <span class="flag ja">日本語 (Japanese)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="19" href="/ko/">
+                            <span class="flag ko">한국어 (Korean)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="9" href="/no/">
+                            <span class="flag no">Norsk (Norwegian)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="15" href="/pl/">
+                            <span class="flag pl">Polski (Polish)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="10" href="/pt/">
+                            <span class="flag pt">Portugu&#234;s (Portuguese)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="11" href="/ru/">
+                            <span class="flag ru">Русский (Russian)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="12" href="/es/">
+                            <span class="flag es">Espa&#241;ol (Spanish)</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a class="value" data-value="13" href="/sv/">
+                            <span class="flag sv">Svenska (Swedish)</span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="global-width">
+            <a class="logo" href="/en/">Pinnacle Sports</a>
+            
+ 
+<div id="loginPopup" style="display: none"></div>
+<script type="text/javascript">
+    $(function () {
+        var loginButton = $("#loginButton");
+        if (location.protocol === 'https:') {
+            loginButton.on('click',showLoginPopup);
+			setTimeout(loadLoginContent);          
+        } else {
+            loginButton.attr("href", "https://www.pinnaclesports.com/en/login");
+        }
+    });
+    function loadLoginContent() {
+        var loginPopup = $("#loginPopup");
+        $.get("/en/login-popup", function(data) {
+            try {
+                loginPopup.html(data);
+            }
+            finally {
+                
+				window.pinnacle.AssignForgotHandlers();
+            }
+        });
+    }
+    function showLoginPopup(e) {
+        e.preventDefault();
+        var loginPopup = $("#loginPopup");
+        if (!!!loginPopup.data('loaded')) {
+            loginPopup.data('loaded', true);
+            loadLoginContent(loginPopup);
+            loginPopup.dialog({
+                dialogClass: "login-close",
+                draggable: false,
+                modal: true,
+                resizable: false,
+                width: 750,
+                height: 500,
+                open: function() {
+                    $('.ui-widget-overlay').addClass('login-overlay');
+                },
+                close: function() {
+                    $('.ui-widget-overlay').removeClass('login-overlay');
+                }
+            });
+        } else {
+            loginPopup.dialog('open');
+        }
+        loginPopup.click(function (e) {
+        	var wrapper = loginPopup.find(".login__wrapper");
+        	var holder = loginPopup.find(".login__wrapper__holder");
+            if (e.target == loginPopup[0] || e.target == wrapper[0] || e.target == holder[0]) {
+                loginPopup.dialog('close');
+            }
+        });
+        $(".login-overlay").click(function () { loginPopup.dialog('close'); });  
+    }
+</script>
+
+<ul class="quicklinks">
+    <li><a class="button green signup-link" href="/signup/desktop/en-GB?ico=menuopen" target="_blank">Open Account</a></li>
+    <li><a class="button blue login" id="loginButton" href="#">Login</a></li>
+</ul>
+
+        </div>
+    </div>
+    <nav class="nav">
+        <div class="global-width">
+            
+<ul class="tabs">
+    <li class=active>
+        <a class="button tab" href="/en/"><span>sports betting</span></a>
+    </li>
+    <li ><a class="button tab" href="/en/casino"><span>casino</span></a></li>
+    <li ><a class="button tab" href="/en/live-casino"><span>live casino</span></a></li>
+    <li  id="esportsTab"><a class="button tab" href="/en/esports"><span>esports</span></a></li>
+  <li ><a class="button tab" href="/en/mobile"><span>mobile</span></a></li>
+</ul>
+
+
+            
+<ul class="list">
+</ul>
+<ul class="main">
+                <li class="active"><a href="/en/" target="">Home</a></li>
+                <li class=""><a href="/en/promotions" target="">Why Pinnacle Sports?</a></li>
+                <li class=""><a href="/en/payment-options" target="">Payment Options</a></li>
+                <li class=""><a href="/en/betting-articles" target="">Betting Articles</a></li>
+
+
+
+
+</ul>
+
+
+
+
+
+        </div>
+    </nav>
+</header>
+
+        <div id="main-container">
+            
+            <div class="body-background">
+              <div title="" class="full-background" style="background: url(/Cms_Data/Contents/Guest/Media/Background/generic-background-3.jpg) no-repeat center top;"></div>
+
+              
+            </div>
+
+
+            <div class="global-width">
+                <div id="main" class="right">
+                    
+<div class="block-social">
+    <ul>
+      	<!-- IDs removed: "home-twitter-button", "home-facebook-button", "home-googleplus-button" -->
+        <li><a class="twitter" href="https://twitter.com/pinnaclesports" target="_blank">Twitter</a></li>
+        <li><a class="facebook" href="http://www.facebook.com/pinnaclesports" target="_blank">Facebook</a></li>
+        <li><a class="google-plus" href="https://plus.google.com/+pinnaclesports" target="_blank">Google Plus</a></li>      	
+    </ul>
+</div>
+<h1 class="block-headline big">
+    
+        <img width="26px" height="26px" src="/Cms_Data/Sites/Guest/Themes/Default/icons/icon-tick.png" alt="Icon" />
+        Bet with the best odds at Pinnacle Sports
+    
+    <span class="arrow"></span>
+</h1>        <div class="block-slider">
+            <ul id="homePageSlider" data-pause-times="[15000,15000,15000]">
+                        <li>
+                            <p><img src="/Cms_Data/Contents/Guest/Media/homepage/slider/hp-slider-world-series-2015.jpg" alt="hp-slider-world-series-2015.jpg" width="732" height="300" /></p>
+<p></p>
+<p></p>
+<p></p>
+<div style="position: absolute; bottom: -13px; width: calc(100% - 20px); text-align: center;"><a href="/en/odds/match/baseball/usa/mlb" style="margin-right: 20px;" class="button-ghost button-medium">Bet the World Series</a><a class="signup-link button-primary button-medium" href="/signup/desktop/en-GB">Open Account</a></div>
+                        </li>
+                        <li>
+                            <p><img src="/Cms_Data/Contents/Guest/Media/homepage/slider/hp-slider-nba-1516.jpg" alt="hp-slider-nba-1516.jpg" width="732" height="300" /></p>
+<p></p>
+<p></p>
+<p></p>
+<div style="position: absolute; bottom: -13px; width: calc(100% - 20px); text-align: center;"><a href="/en/odds/match/basketball/usa/nba" style="margin-right: 20px;" class="button-ghost button-medium">Bet the NBA</a><a class="signup-link button-primary button-medium" href="/signup/desktop/en-GB">Open Account</a></div>
+                        </li>
+                        <li>
+                            <p><img src="/Cms_Data/Contents/Guest/Media/homepage/slider/eng-hp-slider-payouts.jpg" alt="eng-hp-slider-payouts.jpg" width="732" height="300" /></p>
+<div style="position: absolute; bottom: 20px; right: 38px; width: calc(100% - 20px); text-align: right;"><a href="/en/promotions/best-odds" style="margin-right: 20px;" class="button-ghost button-medium">Learn More</a><a class="button-primary button-medium signup-link" href="/signup/desktop/en-GB?ico=home%26icl=open">Open an account</a></div>
+                        </li>
+            </ul>
+        </div>
+
+
+        <div class="block-promos">
+                    <div class="promo">
+                            <a href="/en/promotions/unbeatable-reputation?ico=homepage-promo-1&icl=">
+                                <span class="image">
+                                    <span class="inner">
+                                      <img class="default" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-our-reputation-2.png" alt="Unrivalled Reputation" />
+                                        <img class="hover" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-our-reputation-hover-2.png" alt="Unrivalled Reputation" />
+                                    </span>
+                                </span>
+                                <span class="title">Unrivalled Reputation</span>
+                                <span class="text">A bookmaker you can trust</span>
+                            </a>
+                    </div>
+                    <div class="promo">
+                            <a href="/en/promotions/best-odds?ico=homepage-promo-2&icl=">
+                                <span class="image">
+                                    <span class="inner">
+                                      <img class="default" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-best-odds.png" alt="Best Value Odds" />
+                                        <img class="hover" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-best-odds-hover.png" alt="Best Value Odds" />
+                                    </span>
+                                </span>
+                                <span class="title">Best Value Odds</span>
+                                <span class="text">Giving you the best payout</span>
+                            </a>
+                    </div>
+                    <div class="promo">
+                            <a href="/en/promotions/highest-limits?ico=homepage-promo-3&icl=">
+                                <span class="image">
+                                    <span class="inner">
+                                      <img class="default" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-highest-limits.png" alt="Highest Limits" />
+                                        <img class="hover" width="57px" height="56px" src="/Cms_Data/Contents/Guest/Media/homepage/promo-box/promo-icon-highest-limits-hover.png" alt="Highest Limits" />
+                                    </span>
+                                </span>
+                                <span class="title">Highest Limits</span>
+                                <span class="text">No one offers higher limits</span>
+                            </a>
+                    </div>
+        </div>
+
+
+<div class="block-headline">
+    <p>Featured online betting markets and articles</p>
+    <span class="arrow"></span>
+</div>
+            <div class="block-articles">
+
+        <div class="article">
+
+            <a class="image" href="/en/odds/match/basketball/usa/nba?ico=homepage-snippet-1-image&icl=">
+                    <img src="/Cms_Data/Contents/Guest/Media/homepage/snippet/nba/cleveland-cavaliers-nba.jpg" width="100" height="100" alt="NBA" />
+            </a>
+            <div class="text">
+                    <h6 class="title">NBA</h6>
+                    <p>The NBA season is here! Grab the best odds and highest limits with us.</p>
+            </div>
+            <div class="buttons">
+                    <a href="/en/odds/match/basketball/usa/nba?ico=homepage-snippet-1-links-1&icl=" class="button text" target="_self">Match Odds</a>
+                    <a href="/en/odds/specials/basketball/nba?ico=homepage-snippet-1-links-2&icl=" class="button text" target="_self">Outrights</a>
+                    <a href="/en/betting-articles?ico=homepage-snippet-1-links-3&icl=" class="button text" target="_self">NBA Articles</a>
+
+            </div>
+        </div>
+
+
+        <div class="article">
+
+            <a class="image" href="/en/odds/pregame/hockey/usa/nhl-ot-included?ico=homepage-snippet-2-image&icl=">
+                    <img src="/Cms_Data/Contents/Guest/Media/homepage/snippet/nhl/ChicagoBlackhawks_AS.jpg" width="100" height="100" alt="NHL" />
+            </a>
+            <div class="text">
+                    <h6 class="title">NHL</h6>
+                    <p>Bet on the NHL at Pinnacle Sports. We offer the best hockey odds and the highest limits on every game.</p>
+            </div>
+            <div class="buttons">
+                    <a href="/en/odds/pregame/hockey/usa/nhl-ot-included?ico=homepage-snippet-2-links-1&icl=" class="button text" target="_self">Match odds</a>
+                    <a href="/en/betting-articles?ico=homepage-snippet-2-links-2&icl=" class="button text" target="_self">NHL Articles</a>
+                    <a href="/en/odds/specials/hockey/nhl?ico=homepage-snippet-2-links-3&icl=" class="button text" target="_self">Outrights</a>
+
+            </div>
+        </div>
+
+
+        <div class="article">
+
+            <a class="image" href="/en/odds/future/baseball/mlb?ico=homepage-snippet-3-image&icl=">
+                    <img src="/Cms_Data/Contents/Guest/Media/homepage/snippet/mlb/Mets_HPS.jpg" width="100" height="100" alt="The 2015 World Series " />
+            </a>
+            <div class="text">
+                    <h6 class="title">The 2015 World Series </h6>
+                    <p>Get unbeatable baseball odds as the New York Mets and the Kansas City Royals battle it out for the Commissioner&#39;s...</p>
+            </div>
+            <div class="buttons">
+                    <a href="/en/odds/future/baseball/mlb?ico=homepage-snippet-3-links-1&icl=" class="button text" target="_self">Outrights</a>
+                    <a href="/en/odds/match/baseball/usa/mlb?ico=homepage-snippet-3-links-2&icl=" class="button text" target="_self">Match Odds</a>
+
+            </div>
+        </div>
+
+
+        <div class="article">
+
+            <a class="image" href="/en/odds/specials/football/nfl?ico=homepage-snippet-4-image&icl=">
+                    <img src="/Cms_Data/Contents/Guest/Media/homepage/snippet/nfl/new-england-patriots-nfl-betting-sm.jpg" width="100" height="100" alt="NFL" />
+            </a>
+            <div class="text">
+                    <h6 class="title">NFL</h6>
+                    <p>Don&#39;t miss out on our unbeatable NFL &amp; NCAA football odds for the 2015-16 season.</p>
+            </div>
+            <div class="buttons">
+                    <a href="/en/odds/specials/football/nfl?ico=homepage-snippet-4-links-1&icl=" class="button text" target="_self">Outrights</a>
+                    <a href="/en/odds/match/football/usa/nfl?ico=homepage-snippet-4-links-2&icl=" class="button text" target="_self">Match odds</a>
+                    <a href="/en/odds/match/football/usa/ncaa-c?ico=homepage-snippet-4-links-3&icl=" class="button text" target="_self">NCAA</a>
+
+            </div>
+        </div>
+
+            </div>
+
+
+                </div>
+                <aside id="sidebar" class="left">
+                        <div class="block sports-menu default active">
+        <h6 class="title">Betting Menu</h6>
+        <ul>
+                <li class="level-1 live ">
+                  <span class="text"><span class="trigger" title="Live In-play"></span>Live In-play</span>
+
+                        <ul style="">
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon basketball" title="Basketball"></span>Basketball</span>
+        <ul style="display:none">
+                <li>
+      <span class="text"><span class="trigger" title="Europe"></span>Europe</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/basketball/europe/europe-vtb-united-league">
+            VTB United League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon e-sports" title="eSports"></span>eSports</span>
+        <ul style="display:none">
+                <li>
+      <span class="text"><span class="trigger" title="Dota 2"></span>Dota 2</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/e-sports/dota-2/dota-2-nanyang-championship">
+            Dota 2 - Nanyang Championship
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon soccer" title="Soccer"></span>Soccer</span>
+        <ul style="display:none">
+                <li class="featured">
+        <a class="text " href="/en/odds/live/soccer/france/ligue-1?sport=True">
+            Ligue 1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/live/soccer/england/england-premier-league?sport=True">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/live/soccer/italy/italy-serie-a?sport=True">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Belgium"></span>Belgium</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/belgium/belgium-pro-league">
+            Pro League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/belgium/belgium-pro-league-corners">
+            Pro League Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/belgium/belgium-second-division">
+            Second Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Cyprus"></span>Cyprus</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/cyprus/cyprus---1st-division">
+            Cyprus - 1st  Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Czech Republic"></span>Czech Republic</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/czech-republic/czech-republic-2-liga">
+            2. Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/czech-republic/czech-republic-first-league">
+            First League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Denmark"></span>Denmark</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/denmark/denmark-division-1">
+            Division 1
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="England"></span>England</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/england/england-fa-trophy">
+            FA Trophy
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/england/england-league-2">
+            League 2
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/england/england-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/england/england-premier-league-corners">
+            Premier League Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="France"></span>France</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/france/ligue-1">
+            Ligue 1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/france/ligue-1-corners">
+            Ligue 1 Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Georgia"></span>Georgia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/georgia/georgia-umaglesi-liga">
+            Umaglesi Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/germany/germany-bundesliga-2">
+            Bundesliga 2
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/germany/germany-bundesliga-3">
+            Bundesliga 3
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/germany/germany-regionalliga-north">
+            Regionalliga North
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Greece"></span>Greece</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/greece/greece---football-league">
+            Greece - Football League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/greece/greece-superleague">
+            Superleague
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="India"></span>India</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/india/india-super-league">
+            India - Super League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Italy"></span>Italy</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/italy/italy-lega-pro">
+            Lega Pro
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/italy/italy-serie-a">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/italy/italy-serie-a-corners">
+            Serie A Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Netherlands"></span>Netherlands</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/netherlands/netherlands-eerste-divisie">
+            Eerste Divisie
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/netherlands/netherlands-eredivisie">
+            Eredivisie
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/netherlands/netherlands-eredivisie-corners">
+            Eredivisie Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Russia"></span>Russia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/russia/russia-national-football-league">
+            National Football League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/russia/russian-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Serbia"></span>Serbia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/serbia/serbia-super-liga">
+            Super Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Slovakia"></span>Slovakia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/slovakia/slovak-fortuna-liga">
+            Fortuna Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Switzerland"></span>Switzerland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/switzerland/switzerland-challenge-league">
+            Challenge League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/switzerland/switzerland-super-league">
+            Super League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Thailand"></span>Thailand</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/thailand/thailand-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Tunisia"></span>Tunisia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/soccer/tunisia/tunisia-league-1">
+            League 1
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon tennis" title="Tennis"></span>Tennis</span>
+        <ul style="display:none">
+                <li>
+      <span class="text"><span class="trigger" title="New Markets"></span>New Markets</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/live/tennis/new-markets/atp-basel-final">
+            ATP Basel - Final
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/live/tennis/new-markets/atp-paris-qualifiers">
+            ATP Paris - Qualifiers
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                        </ul>
+                </li>
+                <li class="level-1 no-live ">
+                  <span class="text"><span class="trigger" title="Match Odds"></span>Match Odds</span>
+
+                        <ul style="">
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon badminton" title="Badminton"></span>Badminton</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/badminton">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="World"></span>World</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/badminton/world/world--bitburger-open-men-doubles">
+            World -  Bitburger Open Men Doubles
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/badminton/world/world-bitburger-open-women-singles">
+            World - Bitburger Open Women Singles
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="New Markets"></span>New Markets</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/badminton/new-markets/testapileague">
+            TestAPILeague
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon baseball" title="Baseball"></span>Baseball</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/baseball">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li class="featured">
+        <a class="text " href="/en/odds/match/baseball/usa/mlb?sport=True">
+            MLB
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Mexico"></span>Mexico</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/baseball/mexico/mexican-pacific-league">
+            Mexican Pacific League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="USA"></span>USA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/baseball/usa/mlb">
+            MLB
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/baseball/usa/mlb-alternate-runlines">
+            MLB Alternate Runlines
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon basketball" title="Basketball"></span>Basketball</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/basketball">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li class="featured">
+        <a class="text " href="/en/odds/match/basketball/usa/nba?sport=True">
+            NBA
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Argentina"></span>Argentina</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/argentina/argentina-liga-nacional">
+            Liga Nacional
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Austria"></span>Austria</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/austria/austria-obl">
+            OBL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="England"></span>England</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/england/england-bbl-championship">
+            BBL Championship
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Europe"></span>Europe</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/europe/aba-adriatic-league">
+            Adriatic League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/europe/europe-euroleague-women">
+            Euroleague Women
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/europe/europe-vtb-united-league">
+            VTB United League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Finland"></span>Finland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/finland/finland-korisliiga">
+            Korisliiga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="France"></span>France</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/france/france-championnat-pro-a">
+            Championnat Pro A
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/germany/basketball-germany-bundesliga">
+            Bundesliga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Greece"></span>Greece</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/greece/greece-a1">
+            A1
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Israel"></span>Israel</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/israel/israel-premier-league-z">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Italy"></span>Italy</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/italy/italy-lega-a">
+            Lega A
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/italy/italy-lega-nazionale-pallacanestro-gold">
+            Lega Nazionale Pallacanestro Gold
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Mexico"></span>Mexico</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/mexico/mexico-liga-nacional-de-baloncesto-profesional">
+            Liga Nacional de Baloncesto Profesional
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Norway"></span>Norway</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/norway/norway-blno">
+            BLNO
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Romania"></span>Romania</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/romania/romania-division-a">
+            Division A
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Spain"></span>Spain</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/spain/spain-acb">
+            ACB
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Turkey"></span>Turkey</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/turkey/turkey-tbl">
+            TBL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Ukraine"></span>Ukraine</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/ukraine/ukraine-superliga">
+            Ukraine - SuperLiga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="USA"></span>USA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/usa/nba">
+            NBA
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Women"></span>Women</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/basketball/women/korea-wkbl">
+            WKBL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon winter-sports" title="Biathlon"></span>Biathlon</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/biathlon">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="World"></span>World</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/biathlon/world/world-cup-overall-matchups-men">
+            World Cup Overall Matchups - Men
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/biathlon/world/world-cup-overall-matchups-women">
+            World Cup Overall Matchups - Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon boxing" title="Boxing"></span>Boxing</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/boxing">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="Featherweight"></span>Featherweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/featherweight/featherweight">
+            Mares vs Santa Cruz
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Heavyweight"></span>Heavyweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/heavyweight/heavyweight">
+            Teper vs Price
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Lightweight"></span>Lightweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/lightweight/lightweight">
+            Coyle vs Campbell
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Middleweight"></span>Middleweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/middleweight/middleweight">
+            Saunders vs Lee
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Super Middleweight"></span>Super Middleweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/super-middleweight/super-middleweight">
+            Reyes vs Chavez Jr
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Welterweight"></span>Welterweight</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/boxing/welterweight/welterweight">
+            Welterweight
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon cricket" title="Cricket"></span>Cricket</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/cricket">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="Australia"></span>Australia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/cricket/australia/australia-twenty20-big-bash">
+            Australia - Twenty20 Big Bash
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon winter-sports" title="Cross Country Skiing"></span>Cross Country Skiing</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/cross-country-skiing">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="New Markets"></span>New Markets</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/cross-country-skiing/new-markets/world-cup-overall-matchups-men-2">
+            World Cup Overall Matchups - Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon e-sports" title="eSports"></span>eSports</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/e-sports">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="CS:GO"></span>CS:GO</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/c-s-go/counter-strike-global-offensive---dreamhack">
+            Dreamhack
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/c-s-go/counter-strike-global-offensive-quickshot-arena">
+            Quickshot Arena
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Dota 2"></span>Dota 2</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/dota-2/dota-2-nanyang-championship">
+            Dota 2 - Nanyang Championship
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/dota-2/dota-2-pgl-dota-2-pro-am">
+            Dota 2 - PGL Dota 2 Pro-AM
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/dota-2/dota-2-game-show-dota-league">
+            Game Show Dota League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/dota-2/dota-2-world-cyber-arena">
+            World Cyber Arena
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="StarCraft 2"></span>StarCraft 2</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/e-sports/starcraft-2/starcraft-2-world-championship-series">
+            World Championship Series
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon football" title="Football"></span>Football</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/football">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li class="featured">
+        <a class="text " href="/en/odds/match/football/usa/nfl?sport=True">
+            NFL
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Canada"></span>Canada</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/football/canada/canadian-football">
+            Canadian Football
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="USA"></span>USA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/football/usa/ncaa-c">
+            NCAA
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/football/usa/nfl">
+            NFL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon formula-one" title="Formula 1"></span>Formula 1</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/formula-1">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="New Markets"></span>New Markets</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/formula-1/new-markets/mexican-grand-prix-race-matchups">
+            Mexican Grand Prix - Race Matchups
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon handball" title="Handball"></span>Handball</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/handball">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="Denmark"></span>Denmark</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/denmark/handball-denmark-haandboldligaen-men">
+            Haandboldligaen Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Europe"></span>Europe</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/europe/european-champions-league-women">
+            Champions League Women
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/europe/south-east-handball-association-league">
+            South East Handball Association - League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/germany/germany-bundesliga-men-q">
+            Bundesliga Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Sweden"></span>Sweden</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/sweden/handball-sweden-elitserien-men">
+            Elitserien Men
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/handball/sweden/sweden-elitserien-women">
+            Elitserien Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon hockey" title="Hockey"></span>Hockey</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/hockey">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li class="featured">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-ot-included?sport=True">
+            NHL - OT Included
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-ot-included-alternates?sport=True">
+            NHL - OT Included Alternates
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-regular-time?sport=True">
+            NHL - Regular Time
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Austria"></span>Austria</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/austria/austria-ehl">
+            EHL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Czech Republic"></span>Czech Republic</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/czech-republic/czech-republic-extraliga">
+            Extraliga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Denmark"></span>Denmark</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/denmark/denmark-metal-ligaen">
+            Metal Ligaen
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/germany/germany-del">
+            DEL
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/germany/germany-del-2">
+            Germany - DEL 2
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Norway"></span>Norway</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/norway/norway-get-ligaen">
+            GET Ligaen
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Russia"></span>Russia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/russia/russia-kontinental-hockey-league">
+            Kontinental Hockey League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/russia/russia-mhl">
+            Russia - MHL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Slovakia"></span>Slovakia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/slovakia/hockey-slovakia-extraliga">
+            Extraliga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Sweden"></span>Sweden</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/sweden/sweden-hockey-allsvenskan">
+            HockeyAllsvenskan
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="USA"></span>USA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/usa/american-hockey-league">
+            American Hockey League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-ot-included">
+            NHL - OT Included
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-ot-included-alternates">
+            NHL - OT Included Alternates
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/hockey/usa/nhl-regular-time">
+            NHL - Regular Time
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon mixed-martial-arts" title="Mixed Martial Arts"></span>Mixed Martial Arts</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/mixed-martial-arts">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="Bellator"></span>Bellator</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/mixed-martial-arts/bellator/bellator">
+            Bellator
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="UFC"></span>UFC</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/mixed-martial-arts/ufc/ufc">
+            UFC Fight Night
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon rugby-union" title="Rugby Union"></span>Rugby Union</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/rugby-union">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="England"></span>England</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/rugby-union/england/aviva-premiership">
+            Aviva Premiership
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Europe"></span>Europe</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/rugby-union/europe/guinness-pro12">
+            Guinness Pro12
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="France"></span>France</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/rugby-union/france/france-top-14">
+            France Top 14
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon winter-sports" title="Ski Jumping"></span>Ski Jumping</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/ski-jumping">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="World"></span>World</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/ski-jumping/world/world-cup-overall-matchups-men-v8">
+            World Cup Overall Matchups - Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon soccer" title="Soccer"></span>Soccer</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/soccer">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/germany/bundesliga?sport=True">
+            Bundesliga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-la-liga?sport=True">
+            La Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/france/ligue-1?sport=True">
+            Ligue 1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/england/england-premier-league?sport=True">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/italy/italy-serie-a?sport=True">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/uefa/uefa-champions-league?sport=True">
+            UEFA Champions League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="featured">
+        <a class="text " href="/en/odds/match/soccer/uefa/uefa-europa-league?sport=True">
+            UEFA Europa League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Algeria"></span>Algeria</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/algeria/algerian-cup">
+            Algerian Cup
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Argentina"></span>Argentina</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/argentina/argentina-primera-b-nacional">
+            Primera B Nacional
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/argentina/argentina-primera-division">
+            Primera Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Australia"></span>Australia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/australia/australia-a-league">
+            A-League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Austria"></span>Austria</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/austria/austrian-cup">
+            Austrian Cup
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/austria/austria-bundesliga">
+            Bundesliga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/austria/austria-erste-liga">
+            Erste Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Belgium"></span>Belgium</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/belgium/belgium-pro-league">
+            Pro League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Bolivia"></span>Bolivia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/bolivia/bolivia-lfpb">
+            LFPB
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Brazil"></span>Brazil</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/brazil/brazil-serie-a">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Chile"></span>Chile</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/chile/chile-primera-division">
+            Primera Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Colombia"></span>Colombia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/colombia/colombia-primera-a">
+            Primera A
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Costa Rica"></span>Costa Rica</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/costa-rica/costa-rica-primera-division">
+            Primera Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Croatia"></span>Croatia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/croatia/croatia-1-hnl">
+            1. HNL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Cyprus"></span>Cyprus</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/cyprus/cyprus---1st-division">
+            Cyprus - 1st  Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Czech Republic"></span>Czech Republic</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/czech-republic/czech-republic-first-league">
+            First League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Denmark"></span>Denmark</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/denmark/denmark-superliga">
+            Superliga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Ecuador"></span>Ecuador</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/ecuador/ecuador-serie-a">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Egypt"></span>Egypt</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/egypt/egypt-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="England"></span>England</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/england/england-championship">
+            Championship
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/england/england-fa-trophy">
+            FA Trophy
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/england/england-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/england/england-premier-league-corners">
+            Premier League Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="FIFA"></span>FIFA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/fifa/fifa-world-cup-u17">
+            FIFA - World Cup U17
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="France"></span>France</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/france/ligue-1">
+            Ligue 1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/france/france-ligue-2">
+            Ligue 2
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/germany/bundesliga">
+            Bundesliga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/germany/germany-bundesliga-2">
+            Bundesliga 2
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/germany/germany-bundesliga-corners">
+            Bundesliga Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Greece"></span>Greece</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/greece/greece---football-league">
+            Greece - Football League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/greece/greece-superleague">
+            Superleague
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Israel"></span>Israel</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/israel/israel-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Italy"></span>Italy</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/italy/italy-serie-a">
+            Serie A
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/italy/italy-serie-a-corners">
+            Serie A Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/italy/italy-serie-b">
+            Serie B
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Mexico"></span>Mexico</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/mexico/mexico-primera-division">
+            Primera Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Morocco"></span>Morocco</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/morocco/morocco-botola-pro">
+            Botola Pro
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Netherlands"></span>Netherlands</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/netherlands/netherlands-eerste-divisie">
+            Eerste Divisie
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/netherlands/netherlands-eredivisie">
+            Eredivisie
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/netherlands/netherlands-eredivisie-corners">
+            Eredivisie Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Norway"></span>Norway</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/norway/norway---tippeligaen-corners">
+            Norway - Tippeligaen Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/norway/norway-tippeligaen">
+            Tippeligaen
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Paraguay"></span>Paraguay</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/paraguay/paraguay-division-profesional">
+            Division Profesional
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Peru"></span>Peru</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/peru/peru-primera-division">
+            Primera Division
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Poland"></span>Poland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/poland/poland-1st-liga">
+            1st Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/poland/poland-ekstraklasa">
+            Ekstraklasa
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Portugal"></span>Portugal</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/portugal/portugal-primeira-liga">
+            Primeira Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Romania"></span>Romania</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/romania/romania-liga-1">
+            Liga 1
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Russia"></span>Russia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/russia/russian-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/russia/russia-fnl">
+            Russia - FNL
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Serbia"></span>Serbia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/serbia/serbia-super-liga">
+            Super Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Spain"></span>Spain</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-la-liga">
+            La Liga
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-la-liga-corners">
+            La Liga Corners
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-segunda-division">
+            Segunda Division
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-segunda-b-group-1">
+            Spain - Segunda B Group 1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-segunda-b-group-2">
+            Spain - Segunda B Group 2
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-segunda-b-group-3">
+            Spain - Segunda B Group 3
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/spain/spain-segunda-b-group-4">
+            Spain - Segunda B Group 4
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Switzerland"></span>Switzerland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/switzerland/switzerland-challenge-league">
+            Challenge League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/switzerland/switzerland-super-league">
+            Super League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="UEFA"></span>UEFA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/uefa/uefa-champions-league">
+            UEFA Champions League
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/uefa/uefa-euro-2016-qualifiers">
+            UEFA EURO 2016 Qualifiers
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/uefa/uefa-europa-league">
+            UEFA Europa League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Ukraine"></span>Ukraine</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/ukraine/ukraine-premier-league">
+            Premier League
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="USA"></span>USA</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/soccer/usa/major-league-soccer">
+            Major League Soccer
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon tennis" title="Tennis"></span>Tennis</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/tennis">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="New Markets"></span>New Markets</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/atp-challenger-canberra-r1">
+            ATP Challenger Canberra - R1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/atp-challenger-hua-hin-r1">
+            ATP Challenger Hua Hin - R1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/atp-challenger-lima-final">
+            ATP Challenger Lima - Final
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/atp-paris-doubles">
+            ATP Paris - Doubles
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/atp-paris-r1">
+            ATP Paris - R1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/itf-women-macon-final">
+            ITF Women Macon - Final
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/tennis/new-markets/itf-women-toronto-final">
+            ITF Women Toronto - Final
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon volleyball" title="Volleyball"></span>Volleyball</span>
+        <ul style="display:none">
+    <li><a class="text " href="/en/odds/today/volleyball">
+        Today
+        <div class="marker"></div>
+        </a>
+    </li>
+                <li>
+      <span class="text"><span class="trigger" title="Czech Republic"></span>Czech Republic</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/czech-republic/volleyball-czech-republic-extraliga-men">
+            Extraliga Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Finland"></span>Finland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/finland/finland-mestaruusliiga-men">
+            Mestaruusliiga - Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="France"></span>France</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/france/volleyball-france-pro-a-men">
+            Pro A Men
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/france/france-pro-a-women">
+            Pro A Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Germany"></span>Germany</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/germany/volleyball-germany-bundesliga-men">
+            Bundesliga Men
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/germany/germany-bundesliga-women">
+            Bundesliga Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Italy"></span>Italy</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/italy/volleyball-italy-serie-a1-men">
+            Serie A1
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/italy/volleyball-italy-serie-a1-women">
+            Serie A1 Women
+            <div class="marker"></div>
+        </a>
+    </li>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/italy/volleyball-italy-serie-a2-men">
+            Serie A2
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Poland"></span>Poland</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/poland/poland-plus-liga-men">
+            Plus Liga Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Russia"></span>Russia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/russia/russia-super-league-women">
+            Super League Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="Serbia"></span>Serbia</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/serbia/serbia-1-savezna-liga-women">
+            1.Savezna Liga - Women
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+    <li>
+      <span class="text"><span class="trigger" title="South Korea"></span>South Korea</span>
+            <ul>
+    <li class="">
+        <a class="text " href="/en/odds/match/volleyball/south-korea/south-korea-v-league-men">
+            V League Men
+            <div class="marker"></div>
+        </a>
+    </li>
+            </ul>
+    </li>
+        </ul>
+                                </li>
+                        </ul>
+                </li>
+                <li class="level-1 future ">
+                  <span class="text"><span class="trigger" title="Specials"></span>Specials</span>
+
+                        <ul style="">
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon baseball" title="Baseball"></span>Baseball</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/baseball/mlb">
+                       MLB
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon basketball" title="Basketball"></span>Basketball</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/basketball/ncaa">
+                       NCAA
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon e-sports" title="eSports"></span>eSports</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/e-sports/starcraft-2-world-championship-series">
+                       StarCraft 2 - World Championship Series
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon football" title="Football"></span>Football</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/football/nfl">
+                       NFL
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon formula-one" title="Formula 1"></span>Formula 1</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/formula-1/mexican-grand-prix">
+                       Mexican Grand Prix
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon hockey" title="Hockey"></span>Hockey</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/hockey/nhl">
+                       NHL
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon Baseball" title="MLB Series Prices"></span>MLB Series Prices</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/mlb-series-prices/best-of-seven-world-series-price">
+                       Best of Seven World Series Price
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon politics" title="Politics"></span>Politics</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/politics/2016-presidential-election-usa">
+                       2016 U.S Presidential Election
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon soccer" title="Soccer"></span>Soccer</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/soccer/germany-bundesliga">
+                       Bundesliga
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/soccer/spain-la-liga">
+                       La Liga
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/soccer/england-premier-league">
+                       Premier League
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/soccer/italy-serie-a">
+                       Serie A
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/soccer/uefa-champions-league">
+                       UEFA Champions League
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                                <li class="level-2">
+                                  <span class="text"><span class="sport-icon tennis" title="Tennis"></span>Tennis</span>
+        <ul style="display:none">
+                <li>
+                    <a class="text " href="/en/odds/specials/tennis/atp-paris">
+                       ATP Paris
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/tennis/davis-cup">
+                       Davis Cup
+                       <div class="marker"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="text " href="/en/odds/specials/tennis/fed-cup">
+                       Fed Cup
+                       <div class="marker"></div>
+                    </a>
+                </li>
+        </ul>
+                                </li>
+                        </ul>
+                </li>
+        </ul>
+    </div>
+        <script type="text/javascript">
+            var path = window.location.pathname.replace(/\/+$/, "").toLowerCase();
+            if (window.location.search.match(/sport=true/i))
+            {
+                path += "?sport=True";
+            }
+            var link = $(".block.sports-menu a[href$='" + path + "']");
+            link.addClass("active");
+        </script>
+
+                </aside>
+            </div>
+        </div>
+        <footer id="footer">
+    
+<div class="global-width">
+
+    <div class="column">
+        <h6 class="title"><a href="/en/">Sports Betting</a></h6>
+        <ul class="quicklinks">
+            <li><a href="/en/">Home</a></li>
+            <li><a href="/en/payment-options">Payment Options</a></li>
+            <li><a href="/en/promotions">Why Pinnacle Sports?</a></li>
+            <li><a href="/en/betting-articles">Betting Articles</a></li>
+        </ul>
+    </div>
+
+    <div class="column">
+        <h6 class="title"><a href="/en/casino">Casino</a></h6>
+       <h6 class="title"><a href="/en/live-casino">Live Casino</a></h6>
+      
+        <ul class="quicklinks">
+            <!--<li><a href="/en/casino/promotions">Promotions</a></li>-->
+        </ul>
+    </div>
+
+    <div class="column">
+        <h6 class="title"><a href="/en/esports">eSports</a></h6>
+        <ul class="quicklinks">
+            <li><a href="/en/esports/odds">Odds</a></li>
+            <li><a href="/en/esports/schedule">Schedule</a></li>
+            <li><a href="/en/esports/betting-articles">Articles</a></li>
+            <li><a href="/en/esports/help">Help</a></li>
+        </ul>
+    </div>
+
+    <div class="column">
+        <h6 class="title"><a target="_blank" id="helpfooter" href="http://en.help.pinnaclesports.com">Help</a></h6>
+        <ul class="quicklinks">
+            <li><a target="_blank" id="rulesfooter" href="/en/help/betting-rules">Betting Rules</a></li>
+            <li><a target="_blank" id="offeredfooter" href="/en/help/bets-sports-offered">Bets Offered</a></li>
+            <li><a href="/en/sitemap">Sitemap</a></li>
+        </ul>
+    </div>
+
+    <div class="column">
+      
+      <script type="text/javascript" src="/Cms_Data/Sites/Guest/Scripts/pinnacle/freshwidget.js"></script>
+   	  <script type="text/javascript">
+	FreshWidget.init("", {"queryString": "&widgetType=popup", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#f96500", "alignment": "4", "offset": "235px", "formHeight": "500px", "url": "https://en.help.pinnaclesports.com"} );
+	  </script>
+      <style type="text/css">.freshwidget-button{display:none!important}</style>
+        <h6 class="title"><a href='#' onclick='window.FreshWidget.show();'>Contact Us</a></h6>
+      
+      	<h6 class="title" style="margin-top:10px;"><a href="/en/about">About</a></h6>
+        <h6 class="title" style="margin-top:10px;"><a href="/en/api">API</a></h6>
+    </div>
+
+    <div class="column">
+        <a class="button lightgray" style="margin-top:30px;" target="_blank" href="http://www.pinnaclesportsaffiliates.com/">Affiliates</a>
+    </div>
+
+</div>
+
+
+
+
+<div class="bottom">
+<div class="global-width">
+<div class="logos"><img src="/Cms_Data/Contents/Guest/Media/Common/logos.png" alt="logos.png" height="33" width="950" /></div>
+<p class="copyright">Online sports betting from Pinnacle Sports bookmakers &ndash; your premier international sportsbook &copy; 2004 &ndash; 2015 Pinnacle Sports</p>
+<div class="block logos" id="lines_area_footer">
+<ul class="logo_license_list">
+<li><span class="logo_license_18"> </span></li>
+<li><a href="http://www.gamcare.org.uk/" target="_blank" title="GamCare-gambling problems help,support and advice"> <span class="logo_license_gamecare"> </span> </a></li>
+<li><a href="http://seals.networksolutions.com/siteseal_seek/siteseal?v_shortname=PINSP&amp;v_querytype=W&amp;v_search=pinnaclesports.com&amp;x=5&amp;y=5" title="About PinnacleSports.com Network Solutions Secure" target="_blank"> <span class="logo_license_networksolutions"> </span> </a></li>
+<li><a href="http://www.gaminglicences.com/pages/validate.php?lid=8048-R2006754" target="_blank" title="Government of Cura&Atilde;&sect;ao"> <span class="logo_license_curacao"> </span> </a></li>
+<li><iframe src="https://www.authorisation.mga.org.mt/handlers/seal-of-authorisation.aspx?company=dd32c28b-4878-4f40-ad81-1d70719a35cc&amp;lang=en&amp;fullDetails=0&amp;size=20" frameborder="0" height="72" width="125"></iframe></li>
+<li><a href="http://www.gaminglabs.com/extranetGLI/cmsAdmin/getsplash.asp?i=176" target="_blank" title="Gaming Labs Certified"> <span class="logo_license_gmc"> </span> </a></li>
+</ul>
+<div class="footer_text">
+<p>By accessing, using or navigating throughout this site you accept that we will use certain cookies to improve your customer experience. Pinnacle Sports uses cookies to improve your user experience only and will not interfere with your privacy. Please be aware that the website cannot function if cookies are disabled. To change your cookies setting please refer to our <a href="/en/privacy-policy" id="privacytextfooter" target="_blank">privacy policy</a>.</p>
+<p>Pinnacle sports is licensed in Curacao under the Licence <a href="http://www.gaminglicences.com/pages/validate.php?lid=8048-R2006754" target="_blank">8048/JAZ2013-013</a> for the provision of sports betting and casino and is licensed in Malta under the Class II Remote Gaming Licence <a href="https://www.authorisation.mga.org.mt/verification.aspx?lang=en&amp;company=dd32c28b-4878-4f40-ad81-1d70719a35cc" target="_blank">MGA/CL2/1069/2015</a> for the provision of sports betting. The Class II Remote Gaming licence has been issued the 3rd March 2015 to PinBet Malta Ltd, whose registered address is at Susan Court B1, Triq il-Prinjolata, Ta&rsquo;Xbiex, XBX 1130 Malta, by the Malta Gaming Authority. Find out more at <a href="http://www.mga.org.mt" target="blank">www.mga.org.mt</a></p>
+<p>Gambling can be addictive. Please know your limits and gamble responsibly.</p>
+<hr />
+<p><a class="footerLink" id="termsfooter" target="_blank" href="/en/termsandconditions">Terms &amp; Conditions</a> | <a id="responsiblefooter" class="footerLink" target="_blank" href="/en/responsible-gaming">Responsible Gaming</a> | <a id="privacyfooter" class="footerLink" target="_blank" href="/en/privacy-policy">Privacy Policy</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+    </div>
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True" ></script>
+
+    
+<script type="text/javascript">
+    var kooboo = {
+        RightHandMenuShowWidth: '1280',
+        KoobooApiUrl: '/webapi/1.14/api/v1',
+        Translations: {
+            GuestLines: {
+                MinMaxTemplate: '$min and $max',
+                ZeroValue: {
+                    american: '0',
+                    decimal: '0'
+                },
+                Offline: 'offline',
+                Draw : 'Draw',
+                Over: 'Over',
+                Under: 'Under'
+            }
+        }
+    };
+</script>
+
+     
+
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/underscore" ></script>
+
+    <!--[if lte IE 7]>
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/angular.1.1.5" ></script>
+
+    <![endif]-->
+    <script type="text/javascript">
+        if (typeof (angular) == "undefined") {
+            document.write('<script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/angular" ><\/script>');
+        }
+    </script>
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/koobooApp" ></script>
+
+    
+<script type="text/javascript">
+    window.pinnacle.initUserPrefsCookie(2, 'c', 'all',30);
+    window.pinnacle.setPctrCookie(5);
+    window.pinnacle.setPsCdnCookie(3);
+</script> 
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var redirectToRtnPage = false;
+
+        if ($.cookie('HomePageVisitedTime') != null) {
+            var stayOnHomeTime = 43200000;
+            var currentTime = new Date().valueOf();
+            var creationTime = new Date($.cookie('HomePageVisitedTime')).valueOf();
+
+            redirectToRtnPage = (currentTime - creationTime) > stayOnHomeTime;
+        }
+
+        if (redirectToRtnPage) {
+            $('a[href="/en"]').each(function() {
+                $(this).attr('href', "/en/rtn");
+            });
+            $('a[href="/en/"]').each(function() {
+                $(this).attr('href', "/en/rtn");
+            });
+        }
+    });
+</script>
+
+
+
+    
+<!-- Start of IntelliTracker Page Tag -->
+<script type="text/javascript"><!--
+    var language = window.pinnacle.getUserPrefsCookie("languageId");
+    var oddsFormat = window.pinnacle.getUserPrefsCookie("priceStyle");
+    var pqry = "LanguageID%3D" + language + "%26oddsFormat%3D" + oddsFormat; 
+    var rqry = "iREGQry"; 
+    var sqry = "iSale";
+    var itrMId = 825; 
+    var itrRqstH = "tracker.pinnaclesports.com";
+    var dt = window.document, nr = navigator, ina = nr.appName, sr = "0&0", px = 0, sv = 13, je = 0;
+    var inav = nr.appVersion, iie = inav.indexOf('MSIE '), intp = (ina.indexOf('Netscape') >= 0);
+    if (iie > 0) inavi = parseInt(inav.substring(iie + 5)); else inavi = parseFloat(inav);		
+    var idl = window.location.href; var isl = "http" + (idl.indexOf('https:') == 0 ? 's' : '') + "://tracker.pinnaclesports.com/e/t3.dll?" + itrMId + "&";
+    itrc();	
+//--></script>
+<script type="text/javascript">
+    <!--
+    if (iie > 0) dt.write("\<\!\-\-");
+    //-->
+</script>
+<script type="text/javascript" src="https://tracker.pinnaclesports.com/e/clicks.js"></script>
+<noscript><div style="display: none"><img src="https://tracker.pinnaclesports.com/e/t3.dll?825&amp;amp;0&amp;amp;%20&amp;amp;LanguageID%3D2%26oddsFormat%3Ddecimal&amp;amp;iREGQry&amp;amp;iSale&amp;amp;0&amp;amp;0&amp;amp;0&amp;amp;0&amp;amp;0&amp;amp;0&amp;amp;%20&amp;amp;1500&amp;amp;%20&amp;amp;0" height="1" width="1" alt="IntelliTracker" /></div></noscript><!--//-->
+<!-- End of IntelliTracker Page Tag -->
+
+
+
+
+        <script type="text/javascript">
+        window['adrum-start-time'] = new Date().getTime();
+    </script>
+    <script type="text/javascript" async src="/Cms_Data/Sites/Guest/Scripts/appDynamics/adrum.js"></script>
+
+
+    <script type="text/javascript" src="/Guest/Kooboo-Resource/scripts/1_0_0_20151027170533/True/home" ></script>
+
+</body>
+</html>

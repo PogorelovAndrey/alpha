@@ -1,0 +1,320 @@
+lessphp fatal error: load error: failed to find /home/content/69/8898169/html/wp-content/themes/theme50124/bootstrap/less/bootstrap.lesslessphp fatal error: load error: failed to find /home/content/69/8898169/html/wp-content/themes/theme50124/style.less<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+	<title>Error 404 Not Found | Hartman Roofing and Maintenance, Inc</title>
+	<meta name="description" content=" &raquo; Page not found | We Do It Right The First Time!" />
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+		<link rel="icon" href="http://new.hartmanroofing.net/wp-content/uploads/2015/03/favicon.png" type="image/x-icon" />
+		<link rel="pingback" href="http://hartmanroofing.net/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Hartman Roofing and Maintenance, Inc" href="http://hartmanroofing.net/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="Hartman Roofing and Maintenance, Inc" href="http://hartmanroofing.net/feed/atom/" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hartmanroofing.net/wp-content/themes/theme50124/bootstrap/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hartmanroofing.net/wp-content/themes/theme50124/bootstrap/css/responsive.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hartmanroofing.net/wp-content/themes/CherryFramework/css/camera.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hartmanroofing.net/wp-content/themes/theme50124/style.css" />
+	<link rel="alternate" type="application/rss+xml" title="Hartman Roofing and Maintenance, Inc &raquo; Feed" href="http://hartmanroofing.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hartman Roofing and Maintenance, Inc &raquo; Comments Feed" href="http://hartmanroofing.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/hartmanroofing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flexslider-css'  href='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-plugin-css'  href='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://hartmanroofing.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme50124-css'  href='http://hartmanroofing.net/wp-content/themes/theme50124/main-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://hartmanroofing.net/wp-content/themes/CherryFramework/css/magnific-popup.css?ver=0.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-theme-css'  href='http://hartmanroofing.net/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-bootstrap-grid-css'  href='http://hartmanroofing.net/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-font-awesome-css'  href='http://hartmanroofing.net/wp-content/plugins/motopress-content-editor/fonts/font-awesome/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://hartmanroofing.net/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.11' type='text/css' media='all' />
+<style id='A2A_SHARE_SAVE-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery-1.7.2.min.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.8'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.3.1'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/theme50124/js/wpcf7.js?ver=1.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/modernizr.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jflickrfeed.js?ver=1.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/bootstrap/js/bootstrap.min.js?ver=2.3.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hartmanroofing.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hartmanroofing.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+//--></script>
+<script>
+ var system_folder = 'http://hartmanroofing.net/wp-content/themes/CherryFramework/admin/data_management/',
+	 CHILD_URL ='http://hartmanroofing.net/wp-content/themes/theme50124',
+	 PARENT_URL = 'http://hartmanroofing.net/wp-content/themes/CherryFramework', 
+	 CURRENT_THEME = 'theme50124'</script>
+<style type='text/css'>
+
+</style>
+<style type='text/css'>
+h1 { font: bold 32px/37px Roboto, sans-serif;  color:#000000; }
+h2 { font: bold 32px/37px Roboto, sans-serif;  color:#000000; }
+h3 { font: bold 32px/37px Roboto, sans-serif;  color:#000000; }
+h4 { font: bold 20px/20px Roboto, sans-serif;  color:#F8240A; }
+h5 { font: bold 15px/26px Roboto, sans-serif;  color:#F8240A; }
+h6 { font: bold 15px/26px Roboto, sans-serif;  color:#F8240A; }
+body { font-weight: normal;}
+.logo_h__txt, .logo_link { font: bold 40px/40px Roboto, sans-serif;  color:#111111; }
+.sf-menu > li > a { font: bold 20px/20px Roboto, sans-serif;  color:#ffffff; }
+.nav.footer-nav a { font: bold 20px/20px Roboto, sans-serif;  color:#ffffff; }
+</style>
+		<!--[if lt IE 9]>
+		<div id="ie7-alert" style="width: 100%; text-align:center;">
+			<img src="http://tmbhtest.com/images/ie7.jpg" alt="Upgrade IE 8" width="640" height="344" border="0" usemap="#Map" />
+			<map name="Map" id="Map"><area shape="rect" coords="496,201,604,329" href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank" alt="Download Interent Explorer" /><area shape="rect" coords="380,201,488,329" href="http://www.apple.com/safari/download/" target="_blank" alt="Download Apple Safari" /><area shape="rect" coords="268,202,376,330" href="http://www.opera.com/download/" target="_blank" alt="Download Opera" /><area shape="rect" coords="155,202,263,330" href="http://www.mozilla.com/" target="_blank" alt="Download Firefox" /><area shape="rect" coords="35,201,143,329" href="http://www.google.com/chrome" target="_blank" alt="Download Google Chrome" />
+			</map>
+		</div>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script src="http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			jQuery(function(){
+				jQuery('.sf-menu').mobileMenu({defaultText: "Navigate to..."});
+			});
+		</script>
+	<!--<![endif]-->
+	<script type="text/javascript">
+		// Init navigation menu
+		jQuery(function(){
+		// main navigation init
+			jQuery('ul.sf-menu').superfish({
+				delay: 1000, // the delay in milliseconds that the mouse can remain outside a sub-menu without it closing
+				animation: {
+					opacity: "show",
+					height: "show"
+				}, // used to animate the sub-menu open
+				speed: "normal", // animation speed
+				autoArrows: false, // generation of arrow mark-up (for submenu)
+				disableHI: true // to disable hoverIntent detection
+			});
+
+		//Zoom fix
+		//IPad/IPhone
+			var viewportmeta = document.querySelector && document.querySelector('meta[name="viewport"]'),
+				ua = navigator.userAgent,
+				gestureStart = function () {
+					viewportmeta.content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0";
+				},
+				scaleFix = function () {
+					if (viewportmeta && /iPhone|iPad/.test(ua) && !/Opera Mini/.test(ua)) {
+						viewportmeta.content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+						document.addEventListener("gesturestart", gestureStart, false);
+					}
+				};
+			scaleFix();
+		})
+	</script>
+	<!-- stick up menu -->
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!device.mobile() && !device.tablet()){
+				jQuery('.header .nav__primary').tmStickUp({
+					correctionSelector: jQuery('#wpadminbar')
+				,	listenSelector: jQuery('.listenSelector')
+				,	active: true				,	pseudo: true				});
+			}
+		})
+	</script>
+</head>
+
+<body class="error404">
+	<div id="motopress-main" class="main-holder">
+		<!--Begin #motopress-main-->
+		<header class="motopress-wrapper header">
+			<div class="container">
+				<div class="row">
+					<div class="span12" data-motopress-wrapper-file="wrapper/wrapper-header.php" data-motopress-wrapper-type="header" data-motopress-id="56361f7b35a89">
+						<div class="row">
+	<div class="span6" data-motopress-type="static" data-motopress-static-file="static/static-logo.php">
+		<!-- BEGIN LOGO -->
+<div class="logo pull-left">
+									<a href="http://hartmanroofing.net/" class="logo_h logo_h__img"><img src="http://new.hartmanroofing.net/wp-content/uploads/2015/03/Hartman-Roofing-Logo-1.gif" alt="Hartman Roofing and Maintenance, Inc" title="We Do It Right The First Time!"></a>
+						<p class="logo_tagline">We Do It Right The First Time!</p><!-- Site Tagline -->
+	</div>
+<!-- END LOGO -->	</div>
+	<div class="span6">
+		<div class="hidden-phone" data-motopress-type="static" data-motopress-static-file="static/static-search.php">
+			<!-- BEGIN SEARCH FORM -->
+<!-- END SEARCH FORM -->		</div>
+		<div data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="header-sidebar">
+			<div class="header_widget"><div id="text-7"><h4>Call Us Toll Free:</h4>			<div class="textwidget"><b>888-461-7663</b></div>
+		</div></div>
+		</div>
+	</div>
+</div>
+
+<div class="spacer"></div>
+
+<div class="row">
+	<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-nav.php">
+		<!-- BEGIN MAIN NAVIGATION -->
+<nav class="nav nav__primary clearfix">
+<ul id="topnav" class="sf-menu"><li id="menu-item-1931" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/">Home</a></li>
+<li id="menu-item-1933" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/about/">About</a></li>
+<li id="menu-item-2087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-2115" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/residential-services/">Residential Services</a></li>
+	<li id="menu-item-2116" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/commercial-services/">Commercial Services</a></li>
+	<li id="menu-item-2118" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/roof-inspections/">Roof Inspections</a></li>
+	<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/preventative-maintenance/">Preventative Maintenance</a></li>
+	<li id="menu-item-2121" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/blown-in-insulation/">Blown-In Insulation</a></li>
+	<li id="menu-item-2123" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/emergency-roof-repair/">Emergency Roof Repair</a></li>
+	<li id="menu-item-2124" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/insurance-claims-assistance/">Insurance Claims Assistance</a></li>
+</ul>
+</li>
+<li id="menu-item-2291" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/about/testi/">Testimonials</a></li>
+<li id="menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://hartmanroofing.net/get-an-estimate/">Get an Estimate</a></li>
+</ul></nav><!-- END MAIN NAVIGATION -->	</div>
+</div>					</div>
+				</div>
+			</div>
+		</header>
+<div class="motopress-wrapper content-holder clearfix">
+	<div class="container">
+		<div class="row">
+			<div class="span12" data-motopress-wrapper-file="404.php" data-motopress-wrapper-type="content">
+				<div class="row error404-holder">
+					<div class="span7 error404-holder_num" data-motopress-type="static" data-motopress-static-file="static/static-404.php">
+						404					</div>
+					<div class="span5" data-motopress-type="static" data-motopress-static-file="static/static-not-found.php">
+						<div class="hgroup_404">
+	<h1>Sorry!</h1>	<h2>Page Not Found</h2></div>
+
+<h4>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h4><p>Please try using our search box below to look for information on the internet.</p>
+<div class="search-form">
+	<form id="searchform" method="get" action="http://hartmanroofing.net" accept-charset="utf-8">
+		<input type="text" value="" name="s" id="s" class="search-form_it">
+		<input type="submit" value="search" id="search-submit" class="search-form_is btn btn-primary">
+	</form>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<footer class="motopress-wrapper footer">
+			<div class="container">
+				<div class="row">
+					<div class="span12" data-motopress-wrapper-file="wrapper/wrapper-footer.php" data-motopress-wrapper-type="footer" data-motopress-id="56361f7b3a9af">
+						
+
+<div class="copyright">
+	<div class="row">
+		<div class="span8">
+			<div data-motopress-type="static" data-motopress-static-file="static/static-footer-nav.php">
+							</div>
+			<div data-motopress-type="dynamic-sidebar" data-motopress-sidebar-id="footer-sidebar-4">
+				<div id="text-15" class="visible-all-devices ">			<div class="textwidget"><p style="color:white">Proudly serving... Iosco, Alcona, Arenac and Ogemaw Counties</font></p>
+<p style="color:white"><a href="http://new.hartmanroofing.net"/>HOME</a> | <a href="http://new.hartmanroofing.net/contact/">CONTACT US</a> | <a href="http://new.hartmanroofing.net/privacy">PRIVACY POLICY</A></font></p>
+</div>
+		</div>			</div>
+		</div>
+		<div class="span4" data-motopress-type="static" data-motopress-static-file="static/static-footer-text.php">
+			<div id="footer-text" class="footer-text">
+	
+			Copyright © 1988-2015 HARTMAN ROOFING &amp; MAINTENANCE, INC. All Rights Reserved.
+Hosted by <a href="http://intensifiedtechnology.com">Intensified Technology, LLC</a>
+
+<p> <a href="http://www.angieslist.com/companylist/us/mi/oscoda/hartman-roofing-and-maintenance-inc-reviews-426967.htm"><img border="0" alt="angies list hartman roofing" src="http://new.hartmanroofing.net/wp-content/uploads/2015/06/AngiesList.png" width="100"><img src="http://new.hartmanroofing.net/wp-content/uploads/2011/07/Oscoda-AuSable-Chamber-of-Commerce-Michigan-150x150.jpg" alt="hartman roofing member oscoda chamnber" width="75" height="75" class="alignnone size-thumbnail wp-image-2266" />     <img src="http://new.hartmanroofing.net/wp-content/uploads/2015/03/shingle-master-150x150.gif" alt="hartman roofing certified roofing specialist" width="75" height="75" class="alignnone size-thumbnail wp-image-2211" /></p>		</div>		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+		</footer>
+		<!--End #motopress-main-->
+	</div>
+	<div id="back-top-wrapper" class="visible-desktop">
+		<p id="back-top">
+			<a href="#top"><span></span></a>		</p>
+	</div>
+			<script type="text/javascript">
+			Tracking ID
+UA-61161093-1
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61161093-1', 'auto');
+  ga('send', 'pageview');
+
+
+		</script>
+		<!-- Show Google Analytics -->
+		<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style a2a_target" id="wpa2a_1" style="left:0px;top:100px;"><a class="a2a_button_facebook" href="http://www.addtoany.com/add_to/facebook?linkurl=&amp;linkname=" title="Facebook" rel="nofollow" target="_blank"></a><a class="a2a_button_twitter" href="http://www.addtoany.com/add_to/twitter?linkurl=&amp;linkname=" title="Twitter" rel="nofollow" target="_blank"></a><a class="a2a_button_google_plus" href="http://www.addtoany.com/add_to/google_plus?linkurl=&amp;linkname=" title="Google+" rel="nofollow" target="_blank"></a><a class="a2a_button_printfriendly" href="http://www.addtoany.com/add_to/printfriendly?linkurl=&amp;linkname=" title="PrintFriendly" rel="nofollow" target="_blank"></a><a class="a2a_button_google_gmail" href="http://www.addtoany.com/add_to/google_gmail?linkurl=&amp;linkname=" title="Google Gmail" rel="nofollow" target="_blank"></a><a class="a2a_button_google_bookmarks" href="http://www.addtoany.com/add_to/google_bookmarks?linkurl=&amp;linkname=" title="Google Bookmarks" rel="nofollow" target="_blank"></a><a class="a2a_button_email" href="http://www.addtoany.com/add_to/email?linkurl=&amp;linkname=" title="Email" rel="nofollow" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share_save"></a>
+<script type="text/javascript"><!--
+wpa2a.script_load();
+//--></script>
+</div>
+<script type="text/javascript"><!--
+wpa2a.targets=[
+{title:document.title,url:location.href}];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var items_custom = [[0,1],[480,2],[768,3],[980,4],[1170,5]];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.8'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/hartmanroofing.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.6.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/tmstickup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/device.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://hartmanroofing.net/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4'></script>
+			<script type="text/javascript">
+				deleteCookie('cf-cookie-banner');
+			</script>
+			 <!-- this is used by many Wordpress features and for plugins to work properly -->
+</body>
+</html>

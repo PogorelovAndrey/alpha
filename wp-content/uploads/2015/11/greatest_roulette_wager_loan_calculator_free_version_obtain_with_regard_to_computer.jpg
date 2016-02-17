@@ -1,0 +1,6 @@
+<br />
+<b>Warning</b>:  include_once(/home/rubau/public_html//wp-includes/wp-post-edit.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: Permission denied in <b>/home/rubau/public_html/wp-includes/template.php</b> on line <b>507</b><br />
+<br />
+<b>Warning</b>:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/rubau/public_html//wp-includes/wp-post-edit.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in <b>/home/rubau/public_html/wp-includes/template.php</b> on line <b>507</b><br />
+<br />
+<b>Fatal error</b>:  Cannot redeclare my_time() (previously declared in /home/rubau/public_html/wp-includes/nav-menu.php:467) in <b>/home/rubau/public_html/wp-includes/nav-menu.php</b> on line <b>627</b><br />

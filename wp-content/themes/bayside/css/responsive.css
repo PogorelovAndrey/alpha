@@ -1,0 +1,304 @@
+/*
+* Skeleton V1.1
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 8/17/2011
+*/
+
+/* Table of Contents
+==================================================
+01. RETINA STYLES
+02. BASE STYLES (1140px)
+03. #DESKTOP (960px)
+04. #Tablet (Portrait)
+05. #Mobile (Portrait)
+06. #Mobile (Landscape)
+*/
+
+
+
+
+
+/*
+=============================================== 01. RETINA STYLES ===============================================
+*/
+@media screen and (-webkit-min-device-pixel-ratio: 1.5) {
+	nav select {background-image: url(../images/select-arrow@2x.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 40%, #e8e8e8) !important;background: linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+	background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);background-position: center right; background-repeat: no-repeat; background-size:contain;}	
+	.sf-sub-indicator {background-image:url(../images/arrows-ffffff@2x.png); background-size:20px 110px;}
+	.meta-data-index span a, #sidebar .progression-tab a.recent-title, #sidebar .progression-tab a.popular-title, 
+	body #sidebar .widget_recent_entries h5, body #sidebar .widget_recent_comments h5, body #sidebar .widget_categories h5, body #sidebar .widget_archive h5,
+	body #sidebar .tweets h5, body #sidebar .flickr h5
+	 {background-image: url(../images/meta-data-index@2x.png); background-size:40px 300px;}
+	.post-type-icon a {background-image: url(../images/post-type-icon@2x.png);  background-size:22px 250px;}
+	.searchform {background-image: url(../images/magnify@2x.png);  background-size:33px 33px;}
+	.video-pop-up:after {background-image: url(../images/video-pop-up@2x.png);  background-size:56px 56px;}
+	.flex-control-paging li a {background-image:url(../images/slider/bg_bullets@2x.png); background-size:20px 85px;}
+	.flex-direction-nav a {background-image: url(../images/slider/arrows@2x.png); background-size:68px 69px;}
+	.sidebar-icon a {background-image:url(../images/sidebar-icon@2x.png); background-size:30px 21px;}
+	.post-meta-bayside span {background-image:url(../images/blog-single@2x.png); background-size:25px 330px;}
+	.type-post .social-networks-bayside span.st_facebook,
+	.type-post .social-networks-bayside span.st_twitter,
+	.type-post .social-networks-bayside span.st_pinterest,
+	.type-post .social-networks-bayside span.st_email,
+	.type-post .social-networks-bayside  span.st_print
+	 { background-image:url(../images/blog-single@2x.png);  background-size:25px 330px; }
+
+	
+}
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5) {
+}
+
+/* IE7-IE8 Fixes*/
+.lt-ie9 .sf-sub-indicator {background-image: url(../images/arrows-ffffff.png); }
+.lt-ie9 body #sidebar .widget_recent_entries h5, .lt-ie9 body #sidebar .widget_recent_comments h5, .lt-ie9 body #sidebar .widget_categories h5, .lt-ie9 body #sidebar .widget_archive h5,
+.lt-ie9 body #sidebar .tweets h5, .lt-ie9 body #sidebar .flickr h5
+ {background-image: url(../images/meta-data-index.png);}
+.lt-ie9 .post-type-icon a {background-image: url(../images/post-type-icon.png); }
+.lt-ie9 .searchform {background-image: url(../images/magnify.png); }
+.lt-ie9 .video-pop-up:after {background-image: url(../images/video-pop-up.png);  }
+.lt-ie9 .flex-control-paging li a {background-image: url(../images/slider/bg_bullets.png); }
+.lt-ie9 .flex-direction-nav a {background-image: url(../images/slider/arrows.png);}
+.lt-ie9 .sidebar-icon a {background-image:url(../images/sidebar-icon.png); }
+.lt-ie9 .post-meta-bayside span {background-image:url(../images/blog-single.png);}
+
+.lt-ie9 .type-post .social-networks-bayside span.st_facebook,
+.lt-ie9 .type-post .social-networks-bayside span.st_twitter,
+.lt-ie9 .type-post .social-networks-bayside span.st_pinterest,
+.lt-ie9 .type-post .social-networks-bayside span.st_email,
+.lt-ie9 .type-post .social-networks-bayside  span.st_print
+ { background-image:url(../images/blog-single.png); }
+
+}
+
+
+
+
+/*
+=============================================== 02. BASE STYLES (1140px) ===============================================
+*/
+/* Note: Design for a width of 1040px */
+body:after {content: "Wider than 1140px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */
+html {-webkit-text-size-adjust: none;}	/* Removes webkit font resizing */ 
+body {max-width:100%; width:100%;}
+img {max-width:100%; height: auto; }
+.width-container {-moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+
+
+/*
+=============================================== 03. #DESKTOP (960px) ===============================================
+*/
+/* Note: Design for a width of 960px */
+@media only screen and (min-width: 959px) and (max-width: 1140px) {
+body:after {content: "959px to 1139px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+
+
+
+
+
+}
+
+
+
+/*
+=============================================== 04. #Tablet (Portrait) ===============================================
+*/
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+body:after {content: "768 to 959px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+
+/* Default Width */
+
+
+
+/* Header Fixes */
+header#sticky-navigation-bayside { position:relative; }
+#sticky-navigation-spacer {display:none;}
+body.admin-bar header#sticky-navigation-bayside {top:0px;}
+section#page-content, section#content {padding-top:100px;}
+
+
+/* Sidebar */
+body {background-image:none;}
+#sidebar {
+	width:90%; padding:20px 5% 22px 5%; 
+	border-bottom:2px solid #e7e7e9;
+	border-right:none;   float:none; 
+}
+.searchform {margin-left:45px;}
+.sidebar-icon a {display:block;}
+#sidebar-widgets {top:76px; left:0px; float:left; position:absolute; z-index:10; background:#ffffff; border-right:2px solid #e7e7e9; border-bottom:2px solid #cccccc;  width:235px; padding:20px 30px 30px 26px; }
+#sidebar-widgets, .search-base, .search-base-spacer {display:none;}
+
+
+.flex-direction-nav a {display:none !important;}
+
+/* Main Content Area */
+#content {
+  padding: 22px 0px 15px 18px;
+}
+#page-content, #full-width {
+	margin-left:0px;
+	padding: 22px 30px 15px 34px;
+	background:#ffffff;
+	border-right:2px solid #e7e7e9;
+	border-bottom:2px solid #e7e7e9;
+	max-width:1000px;
+}
+
+
+
+}
+
+
+
+/*
+=============================================== 05. #Mobile (Portrait) ===============================================
+*/
+/* Note: Design for a width of 320px */
+
+@media only screen and (max-width: 767px) {
+body:after {content: "0 to 480px"; background-color: hsla(90,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+
+
+/* Heading Sizes */
+h1 {font-size:40px;}
+h2.blog-post {font-size:34px;}
+.flex-direction-nav a {display:none !important;}
+
+/* Default Grid */
+.grid2column {width:100%; margin-bottom:15px;}
+
+/* Sidebar */
+body {background-image:none;}
+
+#sidebar {
+	width:90%; padding:20px 5% 22px 5%; 
+	border-bottom:2px solid #e7e7e9;
+	border-right:none;   float:none; 
+}
+.searchform {margin-left:45px;}
+.sidebar-icon a {display:block;}
+#sidebar-widgets {top:76px; left:0px; float:left; position:absolute; z-index:10; background:#ffffff; border-right:2px solid #e7e7e9; border-bottom:2px solid #cccccc; width:235px; padding:20px 30px 30px 26px; }
+#sidebar-widgets, .search-base, .search-base-spacer {display:none;}
+
+
+
+/* Header Fixes */
+header#sticky-navigation-bayside { position:relative;}
+body.admin-bar header#sticky-navigation-bayside {top:0px;}
+#sticky-navigation-spacer {display:none;}
+header .grid2column {width:59%; margin-bottom:0px; }
+header .grid2column.lastcolumn {width:39%; }
+.header-top {padding-right:10px; padding-left:10px; font-size:11px; }
+.header-top .grid2column {padding-top:4px;}
+.header-top .last-column {padding-top:0px;}
+.header-top ul li {margin-right:8px; }
+.social-icons a {margin-left:0px;}
+section#page-content, section#content {padding-top:100px;}
+
+
+/* Main Content Area */
+body header h1#logo {margin-left:18px;}
+#content {
+  padding: 22px 0px 12px 18px;
+}
+#page-content, #full-width {
+	padding: 22px 20px 12px 20px;
+	margin-left:0px;
+	background:#ffffff;
+	border-right:2px solid #e7e7e9;
+	border-bottom:2px solid #e7e7e9;
+	max-width:1000px;
+}
+.commentlist {width:95%; left:-10px;}
+.commentlist .children li.comment .comment-meta {margin-left:0px;}
+.commentlist .avatar, .commentlist > li:before {display:none;}
+
+/* Select Menu */
+nav ul { display: none; }  
+nav select option {font-size:12px; background:#fff; color:#888;}
+nav select { 
+	width:225px;
+	margin-bottom:21px; margin-left:5px;
+	text-transform:none; display:block; 
+	-webkit-appearance: none; -moz-appearance: normal; appearance: normal;
+	-webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px;
+	-webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+	-webkit-padding-end: 20px; -webkit-padding-start: 2px; -webkit-user-select: none;-moz-user-select: none;
+	background-image: url(../images/select-arrow.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 90%, #e8e8e8);
+	background: linear-gradient(#FAFAFA, #F4F4F4 90%, #E5E5E5);
+	background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 90%, #E5E5E5);
+	background-position: center right; background-repeat: no-repeat;
+	font-size:13px;
+	border: 1px solid #aaaaaa;
+	color: #555555;
+	padding:7px 5px 7px 10px;}
+
+
+/* Single Post Fixes */
+.post-meta-bayside span.date-bayside {font-size:12px; margin-right:10px; background-position:-4px -3px;  }
+.post-meta-bayside span.author-bayside {font-size:12px; background-position:-5px -49px; }
+
+.social-networks-bayside {margin-right:18px; }
+.type-post .social-networks-bayside span, .type-post .social-networks-bayside a {font-size:10px;}
+.type-post .social-networks-bayside span.st_facebook,
+.type-post .social-networks-bayside span.st_twitter,
+.type-post .social-networks-bayside span.st_pinterest,
+.type-post .social-networks-bayside span.st_email,
+.type-post .social-networks-bayside  span.st_print {width:60px; padding:8px 2px 8px 34px;}
+
+.type-post .social-networks-bayside span.st_facebook { background-position:5px -211px; }
+.type-post .social-networks-bayside span.st_twitter {background-position:6px -268px; }
+.type-post .social-networks-bayside span.st_email { background-position:5px -96px; }
+.type-post .social-networks-bayside span.st_print {background-position:4px -155px; }
+.type-post .social-networks-bayside span.st_pinterest { background-position:6px -304px; }
+
+
+/* prettyPhoto styling for small screens */
+.pp_pic_holder.pp_default { width: 100%!important; left: 0!important; overflow: hidden; }
+div.pp_default .pp_content_container .pp_left { padding-left: 0!important; }
+div.pp_default .pp_content_container .pp_right { padding-right: 0!important; }
+.pp_content { width: 100%!important; height: auto!important; }
+.pp_fade { width: 100%!important; height: 100%!important; }
+a.pp_expand, a.pp_contract, .pp_hoverContainer, .pp_gallery, .pp_top, .pp_bottom { display: none!important; }
+#pp_full_res img { width: 100%!important; height: auto!important; }
+.pp_details { width: 94%!important; padding-left: 3%; padding-right: 4%; padding-top: 10px; padding-bottom: 10px; background-color: #fff; margin-top: -2px!important; }
+a.pp_close { right: 10px!important; top: 10px!important; }
+
+
+
+}
+
+
+
+/*
+=============================================== 06. #Mobile (Landscape) ===============================================
+*/
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+body:after { content: "480 to 767px"; background-color: hsla(150,50%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */
+
+/* Default Width */
+
+#page-content, #full-width  {padding: 22px 30px 12px 30px;}
+
+
+
+
+
+
+}
+
+
+
+/*
+=============================================== 07. TESTING TEXT ===============================================
+*/
+body:after {position:relative; z-index:55; content: "less than 320px";font-size: 300%;font-weight: bold;position: fixed;bottom: 60px;width: 100%;text-align: center;background-color: hsla(1,60%,40%,0.7);color: #fff;
+display:none !important; /* -------------------- ADD OR REMOVE display:none !important; to display testing text -------------------- */}
+
